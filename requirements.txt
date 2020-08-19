@@ -1,0 +1,9 @@
+opencv-python
+requests
+beautifulsoup4
+keras
+scikit-learn
+numpy
+imutils
+matplotlib
+tensorflow
